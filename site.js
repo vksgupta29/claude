@@ -4,7 +4,7 @@ if(g){
  try{ok=sessionStorage.getItem('ial-ok')==='1'}catch(e){}
  if(!ok){g.hidden=false;document.getElementById('yes').focus()}
  document.getElementById('yes').onclick=function(){g.hidden=true;try{if(document.getElementById('rem').checked)sessionStorage.setItem('ial-ok','1')}catch(e){}};
- document.getElementById('nob').onclick=function(){document.getElementById('no').textContent='You need to agree to view this website.'};
+ document.getElementById('nob').onclick=function(){document.getElementById('no').textContent='Closing the website…';g.hidden=true;document.body.style.visibility='hidden';try{window.close()}catch(e){}setTimeout(function(){location.replace('about:blank')},150)};
 }
 var t=document.querySelector('.nav-toggle'),n=document.getElementById('primary-nav');
 if(t&&n)t.onclick=function(){var o=n.classList.toggle('open');t.setAttribute('aria-expanded',o);t.setAttribute('aria-label',o?'Close navigation':'Open navigation')};

@@ -166,10 +166,11 @@ textarea{min-height:130px;resize:vertical}
 .gintro{margin:22px 0 16px}
 .gcard blockquote{margin:0 0 18px;padding:2px 0 2px 22px;border-left:3px solid var(--brass2)}.gcard blockquote p{margin:0 0 12px}
 .gsmall{font-size:14px;color:#5E6E77;margin:0 0 20px}.gsmall a{color:var(--brassd);border-bottom:1px solid var(--brass)}
-.gfoot{display:flex;align-items:center;gap:12px;flex-wrap:wrap;border-top:1px solid #e6e2d8;padding-top:20px}
-.gate label.rem{display:flex;align-items:center;gap:10px;margin-right:auto;color:#4A5B64;font-weight:400;font-size:15px}
+.gfoot{display:flex;flex-wrap:wrap;gap:16px;border-top:1px solid #e6e2d8;padding-top:20px}
+.gbtns{display:flex;gap:12px;width:100%;justify-content:flex-end}
+.gate label.rem{display:flex;align-items:center;gap:10px;flex:0 0 100%;color:#4A5B64;font-weight:400;font-size:15px}
 .gate input[type=checkbox]{width:18px;height:18px;padding:0;accent-color:#14283f}
-.gbtn{font:700 15px var(--sans);padding:13px 22px;border:1px solid var(--navy);background:var(--navy);color:#fff;cursor:pointer}
+.gbtn{white-space:nowrap;font:700 15px var(--sans);padding:13px 22px;border:1px solid var(--navy);background:var(--navy);color:#fff;cursor:pointer}
 .gbtn.o{background:#fff;color:var(--navy);border-color:#cfcbc3}.gbtn:hover{opacity:.88}
 #no{display:block;color:#A32020;font-size:14px;margin-top:10px}
 @media (max-width:980px){
@@ -191,5 +192,5 @@ textarea{min-height:130px;resize:vertical}
  form{grid-template-columns:1fr}
  .topbar .left{display:none}
 }
-@media (max-width:520px){.sectors{grid-template-columns:1fr}.footer-top{grid-template-columns:1fr}.gcard{padding:20px}.ghead{flex-wrap:wrap}.gtag{order:3}.gate label.rem{width:100%}.gbtn{flex:1}.brand img{height:40px}}
+@media (max-width:520px){.sectors{grid-template-columns:1fr}.footer-top{grid-template-columns:1fr}.gcard{padding:20px}.ghead{flex-wrap:wrap}.gtag{order:3}.gbtn{flex:1;padding:13px 12px}.brand img{height:40px}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}html{scroll-behavior:auto}}
