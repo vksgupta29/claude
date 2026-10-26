@@ -229,7 +229,7 @@ textarea{min-height:130px;resize:vertical}
 .others a:hover{background:var(--ivory)}
 @media (max-width:980px){.svcrows>li{grid-template-columns:1fr;gap:12px}}
 
-.footer-logo{display:block;height:56px;width:auto}
+.footer-logo{display:block;height:44px;width:auto}
 .footer-logo-link{display:inline-block}
 .footer-brand p{margin-top:20px}
-@media (max-width:520px){.footer-logo{height:46px}}
+@media (max-width:520px){.footer-logo{height:36px}}
