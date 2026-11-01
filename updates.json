@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T07:15:38+00:00",
+  "updated": "2026-11-01T07:48:06+00:00",
   "items": [
     {
       "source": "SEBI",
@@ -93,6 +93,13 @@
       "summary": ""
     },
     {
+      "source": "GST & Customs",
+      "date": "2026-10-27",
+      "title": "First set of GST changes from the 57th GST Council applies from 1 November 2026",
+      "summary": "The Government has notified the first set of changes recommended by the 57th GST Council meeting of 8 October 2026, covering areas such as refunds, return filing and input tax credit.",
+      "url": "https://www.cbic.gov.in"
+    },
+    {
       "source": "RBI",
       "title": "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility",
       "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13746&Mode=0",
@@ -119,6 +126,41 @@
       "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63873",
       "date": "2026-10-27",
       "summary": "The 36 th Conference of State Finance Secretaries was held on October 27, 2026 at RBI, Mumbai. The theme of the Conference was ‘Role of Quality of Expenditure, Effective Cash and Prudent Debt Management in Enhancing States’ Fiscal…"
+    },
+    {
+      "source": "GST & Customs",
+      "date": "2026-10-26",
+      "title": "CBIC Circulars 257 to 264 of 2026-GST implement 57th GST Council decisions",
+      "summary": "Eight circulars dated 26 October 2026 cover registration, notices, adjudication and first appeals, pre-deposit, Input Service Distributors, banks and NBFCs under section 17(4), demo vehicles, export proceeds and rule 96(10).",
+      "url": "https://www.cbic.gov.in"
+    },
+    {
+      "source": "GST & Customs",
+      "date": "2026-10-26",
+      "title": "Circular 258/04/2026-GST: specific evidence needed before invoking fraud provisions",
+      "summary": "Sections 74(1) and 74A(5)(ii) of the CGST Act cannot be invoked merely for non-payment of GST. Officers need specific evidence of fraud, wilful misstatement or suppression with intent to evade tax, and multi-year notices are to be split by year.",
+      "url": "https://www.cbic.gov.in"
+    },
+    {
+      "source": "GST & Customs",
+      "date": "2026-10-26",
+      "title": "Circular 257/03/2026-GST: guidelines on documents for GST registration",
+      "summary": "Sets out the documents applicants need for registration, including a co-working space declared as the principal place of business, and discourages unnecessary queries by officers.",
+      "url": "https://www.cbic.gov.in"
+    },
+    {
+      "source": "GST & Customs",
+      "date": "2026-10-26",
+      "title": "Circular 263/09/2026-GST: zero-rating protected when export proceeds are realised through RBI-permitted methods",
+      "summary": "Eligible exporters keep the zero-rated GST benefit where export proceeds are realised through settlement methods permitted by the RBI.",
+      "url": "https://www.cbic.gov.in"
+    },
+    {
+      "source": "MCA",
+      "date": "2026-10-24",
+      "title": "General Circular: annual filing deadlines extended without additional fee",
+      "summary": "Annual financial statements (AOC-4 and its variants) for FY 2025-26 can be filed till 31 December 2026, and annual returns (MGT-7 and MGT-7A) till 31 January 2027. The circular does not extend the time for holding AGMs.",
+      "url": "https://www.mca.gov.in"
     },
     {
       "source": "SEBI",
@@ -212,6 +254,13 @@
       "date": "2026-08-11"
     },
     {
+      "source": "Income Tax",
+      "date": "2026-07-13",
+      "title": "CBDT FAQs on transition to the Income-tax Act, 2025",
+      "summary": "The FAQs say that notices, assessments, reassessments, penalties and appeals for tax years before 1 April 2026 continue under the Income-tax Act, 1961.",
+      "url": "https://www.incometaxindia.gov.in"
+    },
+    {
       "source": "MCA",
       "date": "2026-07-08",
       "title": "General Circular 03/2026: CCFS-2026 extended to 31 August 2026",
@@ -240,6 +289,20 @@
       "url": "https://www.mca.gov.in"
     },
     {
+      "source": "MCA",
+      "date": "2026-05-27",
+      "title": "G.S.R. 415(E): Companies (Corporate Social Responsibility Policy) Amendment Rules, 2026",
+      "summary": "Amends the Companies (Corporate Social Responsibility Policy) Rules, 2014. The amendment came into force on 29 May 2026.",
+      "url": "https://www.mca.gov.in"
+    },
+    {
+      "source": "MCA",
+      "date": "2026-05-22",
+      "title": "S.O. 2625(E): key provisions of the IBC Amendment Act, 2026 in force from 26 May 2026",
+      "summary": "Brings into force several provisions of the Act, including the creditor-initiated insolvency resolution process (Chapter IV-A) and amendments on liquidation.",
+      "url": "https://www.mca.gov.in"
+    },
+    {
       "source": "Supreme Court",
       "date": "2026-05-18",
       "title": "Circular on appearance through video conferencing or physical mode",
@@ -252,6 +315,27 @@
       "summary": "Updates the list of goods with specific GST rates to match the Finance Act 2026.",
       "url": "https://www.cbic.gov.in",
       "date": "2026-04-30"
+    },
+    {
+      "source": "MCA",
+      "date": "2026-04-24",
+      "title": "Companies (Registration Offices and Fees) Amendment Rules, 2026: DIR-3 KYC fees",
+      "summary": "Timely DIR-3 KYC filing stays free. Delayed filing for DIN reactivation attracts a fee of ₹5,000, and a modification filing costs ₹500.",
+      "url": "https://www.mca.gov.in"
+    },
+    {
+      "source": "MCA",
+      "date": "2026-04-06",
+      "title": "Insolvency and Bankruptcy Code (Amendment) Act, 2026 receives assent",
+      "summary": "Act No. 6 of 2026 changes admission and timelines in the corporate insolvency process, liquidation, creditor-initiated resolution and key definitions. Provisions apply from dates the Government notifies.",
+      "url": "https://ibbi.gov.in"
+    },
+    {
+      "source": "Income Tax",
+      "date": "2026-03-31",
+      "title": "CBDT revised guidelines on Document Identification Numbers (DIN)",
+      "summary": "The new circular replaces the 2019 circular. Every notice, order, summons or other communication from an income-tax authority must carry a computer-generated DIN, in line with new section 292BA.",
+      "url": "https://www.incometaxindia.gov.in"
     },
     {
       "source": "Income Tax",
@@ -269,10 +353,24 @@
     },
     {
       "source": "MCA",
+      "date": "2026-03-10",
+      "title": "Companies (Accounting Standards) Amendment Rules, 2026",
+      "summary": "Amends Accounting Standard 22 for the OECD Pillar Two global minimum tax, adding a deferred tax exception and new disclosure requirements.",
+      "url": "https://www.mca.gov.in"
+    },
+    {
+      "source": "MCA",
       "date": "2026-02-24",
       "title": "General Circular 01/2026: Companies Compliance Facilitation Scheme, 2026",
       "summary": "A one-time scheme for companies to clear pending annual filings, with reduced additional fees, or to apply for dormant status or strike-off.",
       "url": "https://www.mca.gov.in"
+    },
+    {
+      "source": "Supreme Court",
+      "date": "2026-02-11",
+      "title": "Guidelines for Designation of Senior Advocates by the Supreme Court of India, 2026",
+      "summary": "The Supreme Court published fresh guidelines on designating Senior Advocates and followed them with notices on the designation process.",
+      "url": "https://www.sci.gov.in/senior-advocates-designation/"
     }
   ]
 }
