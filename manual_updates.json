@@ -99,6 +99,13 @@
       "date": "2026-08-20"
     },
     {
+      "source": "CCI",
+      "date": "2026-08-18",
+      "title": "CCI (Commitment) Amendment Regulations, 2026",
+      "summary": "The window to file commitment applications rises from 45 to 60 days, defective applications can be corrected within 10 working days, and the overall timeline for commitment proceedings goes from 130 to 180 working days. In force from publication.",
+      "url": "https://www.cci.gov.in"
+    },
+    {
       "source": "MCA",
       "date": "2026-08-12",
       "title": "Companies (Indian Accounting Standards) Amendment Rules, 2026",
@@ -127,6 +134,13 @@
       "date": "2026-07-30"
     },
     {
+      "source": "DPIIT",
+      "date": "2026-07-23",
+      "title": "Press Note 3 (2026 Series): FDI carve-out for export-only e-commerce inventory",
+      "summary": "A foreign-funded e-commerce entity may own inventory of India-made goods and sell it abroad. The change takes legal effect only after the foreign exchange rules are amended.",
+      "url": "https://www.dpiit.gov.in"
+    },
+    {
       "source": "RBI",
       "title": "Amendment directions on matters to be placed before bank boards",
       "summary": "Amends the directions on what banks must put before their boards, effective 1 October 2026.",
@@ -153,6 +167,13 @@
       "summary": "Replaces the annual fee with a monthly fee payable within 15 days of month-end, effective 1 October 2026.",
       "url": "https://www.sebi.gov.in",
       "date": "2026-07-03"
+    },
+    {
+      "source": "Labour Ministry",
+      "date": "2026-06-29",
+      "title": "Employees' Pension Scheme, 2026 notified (G.S.R. 527(E))",
+      "summary": "The Labour Ministry notified the Employees' Pension Scheme, 2026 together with the Employees' Provident Funds Scheme, 2026. A later corrigendum corrected ten drafting errors in the pension scheme.",
+      "url": "https://labour.gov.in"
     },
     {
       "source": "MCA",
@@ -197,6 +218,13 @@
       "url": "https://www.sci.gov.in/notices-and-circulars/"
     },
     {
+      "source": "Labour Ministry",
+      "date": "2026-05-08",
+      "title": "Central Rules notified under all four Labour Codes, with Model Standing Orders, 2026",
+      "summary": "Rules under the Wages, Industrial Relations, Social Security and Occupational Safety Codes apply to establishments where the Central Government is the appropriate government. State rules apply to the rest.",
+      "url": "https://labour.gov.in"
+    },
+    {
       "source": "GST & Customs",
       "title": "Notification 01/2026-Central Tax (Rate): beverage rates aligned",
       "summary": "Updates the list of goods with specific GST rates to match the Finance Act 2026.",
@@ -239,6 +267,20 @@
       "url": "https://www.sci.gov.in/notices-and-circulars/"
     },
     {
+      "source": "DPIIT",
+      "date": "2026-03-16",
+      "title": "Press Note 3 (2020) amended for investors from land-border countries",
+      "summary": "Investors from countries sharing a land border with India may hold up to 10% non-controlling stakes under the automatic route.",
+      "url": "https://www.dpiit.gov.in"
+    },
+    {
+      "source": "DPIIT",
+      "date": "2026-03-11",
+      "title": "60-day deadline for select FDI proposals from land-border countries",
+      "summary": "Proposals in sectors such as batteries, rare earths and electronics are to be processed within 60 days under revised Press Note 3 norms.",
+      "url": "https://www.dpiit.gov.in"
+    },
+    {
       "source": "MCA",
       "date": "2026-03-10",
       "title": "Companies (Accounting Standards) Amendment Rules, 2026",
@@ -253,11 +295,25 @@
       "url": "https://www.mca.gov.in"
     },
     {
+      "source": "DPIIT",
+      "date": "2026-02-12",
+      "title": "100% FDI allowed in insurance companies under the automatic route",
+      "summary": "DPIIT amended the Consolidated FDI Policy to permit 100% foreign investment in insurance companies without prior approval.",
+      "url": "https://www.dpiit.gov.in"
+    },
+    {
       "source": "Supreme Court",
       "date": "2026-02-11",
       "title": "Guidelines for Designation of Senior Advocates by the Supreme Court of India, 2026",
       "summary": "The Supreme Court published fresh guidelines on designating Senior Advocates and followed them with notices on the designation process.",
       "url": "https://www.sci.gov.in/senior-advocates-designation/"
+    },
+    {
+      "source": "DPIIT",
+      "date": "2026-02-04",
+      "title": "G.S.R. 108(E): revised startup recognition framework with a Deep Tech category",
+      "summary": "Replaces the 2019 notification. The turnover limit for startups rises to ₹200 crore, and Deep Tech startups get a 20-year recognition period and a higher limit of ₹300 crore.",
+      "url": "https://www.dpiit.gov.in"
     }
   ]
 }
