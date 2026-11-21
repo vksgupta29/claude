@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "source": "IBBI",
+      "date": "2026-10-30",
+      "title": "CIRP (Fifth Amendment) Regulations, 2026 and Circular IBBI/CIRP/110/2026 on real estate insolvency",
+      "summary": "IBBI strengthened the resolution framework for corporate debtors with real estate projects to protect homebuyers. The circular addresses the interface between insolvency and RERA and applies to insolvency professionals and their agencies.",
+      "url": "https://ibbi.gov.in/search/index/whatsnew"
+    },
+    {
       "source": "GST & Customs",
       "date": "2026-10-27",
       "title": "First set of GST changes from the 57th GST Council applies from 1 November 2026",
@@ -43,6 +50,13 @@
       "url": "https://www.mca.gov.in"
     },
     {
+      "source": "ROC",
+      "date": "2026-10-24",
+      "title": "Annual filings with the Registrar: relief covers AOC-4, its variants, MGT-7 and MGT-7A",
+      "summary": "Companies can file AOC-4 (including consolidated, XBRL and NBFC versions) for FY 2025-26 by 31 December 2026, and MGT-7 or MGT-7A by 31 January 2027, with no additional fee.",
+      "url": "https://www.mca.gov.in"
+    },
+    {
       "source": "Income Tax",
       "date": "2026-10-21",
       "title": "CBDT Notification 136/2026: TDS exemption on New Development Bank INR bond interest",
@@ -78,11 +92,25 @@
       "url": "https://www.incometaxindia.gov.in/notifications"
     },
     {
+      "source": "ROC",
+      "date": "2026-09-15",
+      "title": "Companies Compliance Facilitation Scheme, 2026 closes on 15 September 2026",
+      "summary": "Under the scheme, companies could make pending filings with the Registrar on normal filing fees plus 10% of the additional fee. After it closed, normal additional fees apply again.",
+      "url": "https://www.mca.gov.in"
+    },
+    {
       "source": "SEBI",
       "title": "Commodity derivatives: new penalty formula and position limits",
       "summary": "Revises the penalty formula for position limit breaches, the definition of “Broad Commodity” and client-level position limits.",
       "url": "https://www.sebi.gov.in",
       "date": "2026-09-09"
+    },
+    {
+      "source": "IBBI",
+      "date": "2026-09-09",
+      "title": "Circular: due diligence by insolvency professionals on misuse of the IBC framework",
+      "summary": "Insolvency professionals are told to look closely at cases where insolvency proceedings may be used to sidestep tax liabilities, investigations or regulatory scrutiny.",
+      "url": "https://ibbi.gov.in/legal-framework/circulars"
     },
     {
       "source": "SEBI",
@@ -155,6 +183,13 @@
       "url": "https://www.incometaxindia.gov.in"
     },
     {
+      "source": "IBBI",
+      "date": "2026-07-09",
+      "title": "Circular: more time to file forms monitoring insolvency of personal guarantors to corporate debtors",
+      "summary": "IBBI extended the deadline for filing the forms used to monitor insolvency resolution processes for personal guarantors to corporate debtors.",
+      "url": "https://ibbi.gov.in/legal-framework/circulars"
+    },
+    {
       "source": "MCA",
       "date": "2026-07-08",
       "title": "General Circular 03/2026: CCFS-2026 extended to 31 August 2026",
@@ -183,6 +218,13 @@
       "url": "https://www.mca.gov.in"
     },
     {
+      "source": "IBBI",
+      "date": "2026-06-15",
+      "title": "Circular: guidelines for conducting valuation under the IBC",
+      "summary": "IBBI issued guidelines for valuations carried out under the Insolvency and Bankruptcy Code, 2016.",
+      "url": "https://ibbi.gov.in/legal-framework/circulars"
+    },
+    {
       "source": "GST & Customs",
       "title": "Notification 21/2026-Customs (T): duty exemption for tariff item 26020010",
       "summary": "Amends Notification 62/2022-Customs to exempt goods under this tariff item from basic customs duty.",
@@ -190,11 +232,25 @@
       "date": "2026-06-09"
     },
     {
+      "source": "IBBI",
+      "date": "2026-06-04",
+      "title": "IBBI amends several regulations to implement the IBC (Amendment) Act, 2026",
+      "summary": "A press release lists the amended regulations: pre-packaged and voluntary liquidation processes, personal guarantors, information utilities, grievance handling, and inspection and investigation, among others.",
+      "url": "https://ibbi.gov.in/uploads/whatsnew/da43eb5a3e7aedf7392a343ea3832515.pdf"
+    },
+    {
       "source": "MCA",
       "date": "2026-06-01",
       "title": "G.S.R. 432(E): minimum capital for Registered Valuers Organisations",
       "summary": "Amends the valuer rules to require paid-up share capital of at least ₹25 lakh, with transition time for existing organisations until 31 March 2028.",
       "url": "https://www.mca.gov.in"
+    },
+    {
+      "source": "IBBI",
+      "date": "2026-06-01",
+      "title": "CIRP (Third Amendment) Regulations, 2026 in force from 2 June 2026",
+      "summary": "Gives effect to the IBC Amendment Act, 2026. The forms in Schedule I are removed, and formats are now issued by IBBI circular.",
+      "url": "https://ibbi.gov.in/uploads/whatsnew/76d1b65369ccedf6f9507fc7b57a9782.pdf"
     },
     {
       "source": "MCA",
@@ -211,11 +267,25 @@
       "url": "https://www.mca.gov.in"
     },
     {
+      "source": "IBBI",
+      "date": "2026-05-19",
+      "title": "CIRP (Second Amendment) Regulations, 2026 amend regulation 27 on appointing professionals",
+      "summary": "Notified on 19 May 2026 and in force from publication in the Gazette on 21 May 2026.",
+      "url": "https://ibbi.gov.in/search/index/whatsnew"
+    },
+    {
       "source": "Supreme Court",
       "date": "2026-05-18",
       "title": "Circular on appearance through video conferencing or physical mode",
       "summary": "Supreme Court circular dated 18 May 2026 on how counsel may appear in hearings.",
       "url": "https://www.sci.gov.in/notices-and-circulars/"
+    },
+    {
+      "source": "IBBI",
+      "date": "2026-05-13",
+      "title": "Governing board rules for insolvency professional agencies amended",
+      "summary": "The amendment adds a nominee director, tightens eligibility and tenure for independent directors, and revises how the Managing Director is appointed. In force from 13 May 2026.",
+      "url": "https://ibbi.gov.in/search/index/whatsnew"
     },
     {
       "source": "Labour Ministry",
@@ -286,6 +356,13 @@
       "title": "Companies (Accounting Standards) Amendment Rules, 2026",
       "summary": "Amends Accounting Standard 22 for the OECD Pillar Two global minimum tax, adding a deferred tax exception and new disclosure requirements.",
       "url": "https://www.mca.gov.in"
+    },
+    {
+      "source": "IBBI",
+      "date": "2026-02-25",
+      "title": "IBBI notifies a batch of amendment regulations for 2026",
+      "summary": "Amendments cover corporate insolvency resolution, pre-packaged insolvency, voluntary liquidation, liquidation and bankruptcy of personal guarantors to corporate debtors, all notified on 25 February 2026.",
+      "url": "https://ibbi.gov.in/search/index/whatsnew"
     },
     {
       "source": "MCA",
